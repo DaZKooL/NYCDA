@@ -1,4 +1,4 @@
-# Kibi 4.5.4
+# Kibi 4.5.5 modified
 
 Kibi extends Kibana 4.5.4 with data intelligence features; the core feature of
 Kibi is the capability to join and filter data from multiple Elasticsearch
