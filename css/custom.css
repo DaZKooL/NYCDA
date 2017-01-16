@@ -35,6 +35,7 @@ body {
     float: left;
 }
 
-#firstAnswer {
+#firstAnswer,
+.morecontent {
     display: none;
 }
