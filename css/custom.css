@@ -4,18 +4,37 @@
  */
 
 body {
-    background-color: #ccc;
+    background-color: #eee;
     color: #333;
 }
 
 .jumbotron {
-    background-color: #000fff;
+    background: #333 url("../images/jumbotron/giraffe.jpeg") no-repeat center center;
 }
 
 .jumbotron h1 {
-    color: #999;
+    color: ##fff;
 }
 
 .jumbotron p {
-    color: #fff;
+    color: #333;
+}
+
+.introduction {
+    background-color: #ccc;
+}
+
+.introduction img {
+    float: left;
+    margin-bottom: 10px;
+    padding-left: 0;
+    border-radius: 180px;
+}
+
+.introduction p {
+    float: left;
+}
+
+#firstAnswer {
+    display: none;
 }
