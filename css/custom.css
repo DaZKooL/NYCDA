@@ -1,0 +1,21 @@
+/*!
+ * Custom.css v0.1 
+ * Giulio Grasso.
+ */
+
+body {
+    background-color: #ccc;
+    color: #333;
+}
+
+.jumbotron {
+    background-color: #000fff;
+}
+
+.jumbotron h1 {
+    color: #999;
+}
+
+.jumbotron p {
+    color: #fff;
+}
