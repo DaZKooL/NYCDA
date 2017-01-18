@@ -21,7 +21,7 @@ body {
 }
 
 .introduction {
-    background-color: #ccc;
+    /*background-color: #ccc;*/
 }
 
 .introduction img {
@@ -38,4 +38,30 @@ body {
 #firstAnswer,
 .morecontent {
     display: none;
+}
+
+.description {
+    height: 365px;
+}
+
+.contactDetails {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    margin: 20px 0;
+}
+
+.contactDetails a {
+    color: red;
+}
+
+.contactDetails a:hover {
+    color: green;
+    text-decoration: line-through;
+}
+
+.contactDetails a:visited {
+    color: lightpink;
 }
